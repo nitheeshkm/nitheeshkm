@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on various FPGA designs at Broadcast Sports International.
+- 🌱 I’m currently learning to create my own RSIC V with deep neural network acceleration and learn custom linux driver drivers.
+- 👯 I’m looking to collaborate on challenging FPGA projects including open source CPUs, accelerate AI DNNs and re-innovate broadcasting. 
+- 💬 Ask me about Video encoders, decoders, Transport stream, video and audio codecs, DNN accelerators.
+- 💼 I've experince in RTL design, ASIC synthesis and layout design, and taped out an AI accelerator for which I did the RTL and ASIC synthesis. 
+- 📫 How to reach me: 🐦: @nitheesh_m 
+- ⚡ Fun fact: I was born 13 bya and so were you.
 <!--
 **nitheeshkm/nitheeshkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
