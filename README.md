@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on various FPGA designs @BroadcastSportsInc.
+- 🔭 I’m currently working on various FPGA/Digital design projects @BroadcastSportsInc.
 - 🌱 I’m currently learning to create my own RSIC V with deep neural network acceleration and learn custom linux driver drivers.
 - 👯 I’m looking to collaborate on challenging projects including open source CPUs, accelerate AI DNNs and re-innovate broadcasting. 
 - 💬 Ask me about Video encoders, decoders, Transport stream, video and audio codecs, DNN accelerators.
