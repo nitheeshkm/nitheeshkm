@@ -2,6 +2,7 @@
 
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/nitheeshkm/nitheeshkm?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
+
 - 🔭 Working on various FPGA/Digital design projects @BroadcastSportsInc.
 - 🌱 Learning to create my own RISC V with deep neural network acceleration and custom linux drivers.
 - 👯 Looking to collaborate on challenging projects including open source CPUs, accelerate AI DNNs and innovate broadcasting solutions. 
@@ -12,7 +13,7 @@
 ### **My Github Status**
 ![github status](https://github-readme-stats.vercel.app/api?username=nitheeshkm&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=&include_all_commits=true)
 ### **Most Used Languages**
-![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshkm&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide=javascript,coq,pascal,batchfile)
+![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshkm&layout=compact&theme=onedark&hide_border=true&langs_count=20&hide=javascript,coq,pascal,batchfile)
 
 
 
