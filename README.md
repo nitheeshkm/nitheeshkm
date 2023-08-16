@@ -9,12 +9,11 @@
 - 💼 I've experince in RTL design, ASIC synthesis and layout design, and taped out an AI accelerator. 
 - 📫 How to reach me: 🐦: @nitheesh_m 
 - I 🐝🍁 in Open Source Hardware and Software,  Decentralized finance (DeFi), Intersteller travel and free energy.
-### **My Github Status**
-![github status](https://github-readme-stats.vercel.app/api?username=nitheeshkm&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=&include_all_commits=true)
-### **Most Used Languages**
+- ### **Most Used Languages**
 ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshkm&layout=compact&theme=onedark&hide_border=true&langs_count=20&hide=javascript,coq,pascal,batchfile)
-
-
+<!-- ### **My Github Status**
+![github status](https://github-readme-stats.vercel.app/api?username=nitheeshkm&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=&include_all_commits=true) 
+--!>
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=nitheeshkm&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
 --!>
