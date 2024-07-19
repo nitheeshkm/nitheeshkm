@@ -7,8 +7,6 @@
 - 👯 Looking to collaborate on challenging projects including open source CPUs, accelerate AI DNNs and innovate broadcasting solutions. 
 - 💬 Ask me about Video encoders, decoders, Transport stream, video and audio codecs, DNN accelerators.
 - 💼 I've experince in RTL design, ASIC synthesis and layout design, and taped out an AI accelerator. 
-- 📫 How to reach me: 🐦: @nitheesh_m 
-- I 🐝🍁 in Open Source Hardware and Software,  Decentralized finance (DeFi), Intersteller travel and free energy.
 - ### **Most Used Languages**
 ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshkm&layout=compact&theme=onedark&hide_border=true&langs_count=20&hide=javascript,coq,pascal,batchfile)
 <!-- ### **My Github Status**
