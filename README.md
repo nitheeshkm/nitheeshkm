@@ -4,7 +4,6 @@
 
 
 - 🔭 Working on various FPGA/Digital design projects @BroadcastSportsInc.
-- 👯 Looking to collaborate on challenging projects including open source CPUs, accelerate AI DNNs and innovate broadcasting solutions. 
 - 💬 Ask me about Video encoders, decoders, Transport stream, video and audio codecs, DNN accelerators.
 - 💼 I've experince in RTL design, ASIC synthesis and layout design, and taped out an AI accelerator. 
 - ### **Most Used Languages**
