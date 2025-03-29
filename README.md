@@ -3,9 +3,9 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/nitheeshkm/nitheeshkm?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 
-- 🔭 Working on various FPGA/Digital design projects @BroadcastSportsInc.
+- 🔭 Working on various FPGA/Digital design projects @BroadcastSportsInc [NEP Americas].
 - 💬 Ask me about Video encoders, decoders, Transport stream, video and audio codecs, DNN accelerators.
-- 💼 I've experince in RTL design, ASIC synthesis and layout design, and taped out an AI accelerator. 
+- 💼 I've experince in RTL design, ASIC synthesis and layout design, and taped out an AI accelerator.
 - ### **Most Used Languages**
 ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshkm&layout=compact&theme=onedark&hide_border=true&langs_count=20&hide=javascript,coq,pascal,batchfile)
 <!-- ### **My Github Status**
